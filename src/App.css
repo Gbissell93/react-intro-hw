@@ -1,10 +1,14 @@
-.App {
-  text-align: center;
+* {
+  padding: 0;
+  margin: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html,
+body {
+  min-height: 100vh;
+}
+.App {
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
